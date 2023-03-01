@@ -40,7 +40,6 @@ begin
     .SobreNome(Edit2.Text)
     .NomeCompleto
   );
-
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
