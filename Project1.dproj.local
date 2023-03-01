@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/16 08:49:09.000.224,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 17:28:47.000.614,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 19:13:13.000.924,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:09:28.000.115,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:51:18.000.792,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:30:08.000.221,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:31:28.000.209,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/01 13:36:19.000.956,C:\Fontes\Cursos\Interfaces\eInterface.Model.Interfaces.pas=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/01 13:36:42.000.324,C:\Fontes\Cursos\Interfaces\uPrincipal.pas=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:36:42.000.324,C:\Fontes\Cursos\Interfaces\uPrincipal.dfm=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/01 13:36:46.000.233,C:\Fontes\Cursos\Interfaces\Project1.dproj=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/01 13:36:53.000.308,=C:\Fontes\Cursos\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:37:18.000.023,C:\Fontes\Cursos\Interfaces\eInterface.Model.Pessoa.pas=C:\Fontes\Cursos\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:38:53.000.325,C:\Fontes\Cursos\Interfaces\eInterface.View.pas=C:\Fontes\Cursos\Interfaces\uPrincipal.pas</Transaction>
+    <Transaction>2023/03/01 13:38:53.000.325,C:\Fontes\Cursos\Interfaces\eInterface.View.dfm=C:\Fontes\Cursos\Interfaces\uPrincipal.dfm</Transaction>
+    <Transaction>2023/03/01 13:55:19.000.995,C:\Fontes\Cursos\Interfaces\eInterface.Model.PessoaFisica.pas=C:\Fontes\Cursos\Interfaces\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2023/03/01 13:55:32.000.562,=C:\Fontes\Cursos\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 13:55:58.000.794,C:\Fontes\Cursos\Interfaces\eInterface.Model.PessoaJuridica.pas=C:\Fontes\Cursos\Interfaces\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
